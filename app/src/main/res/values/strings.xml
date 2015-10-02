@@ -7,4 +7,6 @@
     <string name="title_activity_display_message">My Message</string>
     <string name="action_search">Search</string>
     <string name="hello_world">Hello world!</string>
+    <string name="edit_message_small">Enter a small message</string>
+    <string name="edit_message_large">Enter a large message</string>
 </resources>
